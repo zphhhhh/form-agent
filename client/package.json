@@ -1,0 +1,20 @@
+{
+  "name": "client",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@ai-sdk/react": "^1.2.12",
+    "@douyinfe/semi-ui": "^2.80.0",
+    "@types/react": "18",
+    "ahooks": "^3.8.5",
+    "ai": "^4.3.16",
+    "react": "^18"
+  }
+}
